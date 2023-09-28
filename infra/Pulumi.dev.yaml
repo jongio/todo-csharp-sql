@@ -1,0 +1,4 @@
+config:
+  azure-cs-appservice:sqlPassword:
+    secure: AAABAFck13Ad244/eVRbW7cYSoE3KEpE87DT1zlBKi9+hwvOrqY=
+  pulumi:template: https://github.com/pulumi/examples/tree/master/azure-cs-appservice
